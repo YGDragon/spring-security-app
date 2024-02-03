@@ -1,2 +1,2 @@
-# spring-security-app
-An application that controls access to resources based on the user's role.
+An application that controls access to resources based on the user's role.  
+Two types of users are authorized: USER and ADMIN.
